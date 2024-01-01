@@ -5,7 +5,7 @@
 
 The project encompassed the consolidation of data from the years 2016, 2017, and 2018, with a focus on employing pandas for effective data handling. Emphasis was placed on data cleanliness through the removal of duplicates and the systematic addressing of missing values, resulting in the creation of a refined dataset conducive to analysis.
 
-### Library Used
+### Libraries Used
 - Pandas
 - Matplotlib
 - Seaborn
