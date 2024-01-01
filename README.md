@@ -1,7 +1,7 @@
 # World Happiness Report Dataset
 ### Overview
 
-🌐 Greetings GitHub community! I am pleased to share an overview of my recent project on the World Happiness Dataset, implemented using Python.
+🌐 Greetings GitHub community! I am pleased to share my project on the World Happiness Datasets using Python.
 
 The project encompassed the consolidation of data from the years 2016, 2017, and 2018, with a focus on employing pandas for effective data handling. Emphasis was placed on data cleanliness through the removal of duplicates and the systematic addressing of missing values, resulting in the creation of a refined dataset conducive to analysis.
 
